@@ -1,0 +1,21 @@
+{
+  "name": "mvc-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "node index.js"
+  },
+  "keywords": [],
+  "author": "Peter Q",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
